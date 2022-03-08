@@ -1,12 +1,20 @@
 {
   "name": "assignment-4",
   "version": "1.0.0",
-  "description": "",
+  "description": "Web Assignment 4",
   "main": "data-service.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "tej parekh",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tej2021/Assignment.git"
+  },
+  "author": "Tej Parekh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tej2021/Assignment/issues"
+  },
+  "homepage": "https://github.com/Tej2021/Assignment#readme"
 }
